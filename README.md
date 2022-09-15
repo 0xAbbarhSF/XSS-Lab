@@ -15,8 +15,8 @@
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/XSS-LOADER/
-cd XSS-LOADER
+git clone https://github.com/0xAbbarhSF/XSS-Lab
+cd XSS-Lab
 pip3 install -r requirements.txt
 ```
 
@@ -128,7 +128,7 @@ Results will be saved in "dork.txt" after scanning.
 
 If you want to use tool for python3 installed on Windows download below link:
 
-https://github.com/capture0x/XSS-LOADER-for-WINDOWS
+https://github.com/0xAbbarhSF/XSS-Lab
 
 
 ## Bugs and enhancements
