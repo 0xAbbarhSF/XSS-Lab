@@ -1,32 +1,4 @@
-   # :gem:  &nbsp;  XSS-LOADER TOOLS  &nbsp;  :gem:
-
-<img src="https://i.imgur.com/RvwHNfS.png" width="60%"></img>
-
-
-
-#### Written by TMRSWRR 
-#### Version 1.0.0
-All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
-
-Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
-##  :camera: Screenshots  :camera:
-
-<img src="https://i.imgur.com/mnRkb1b.png" width="32%"></img>
-<img src="https://i.imgur.com/8vdFrl6.png" width="32%"></img>
-<img src="https://i.imgur.com/E7t30Cf.png" width="32%"></img>
-<img src="https://i.imgur.com/jMGDl5C.png" width="32%"></img>
-<img src="https://i.imgur.com/fwAETe2.png" width="32%"></img>
-<img src="https://i.imgur.com/jmBmGH1.png" width="32%"></img>
-
-
-
-
-
-## 👇 :love_letter:  How to use  :love_letter: 👇
-
-[![How to use](https://i.imgur.com/l44jOXW.png)](https://www.youtube.com/watch?v=ys_a5yx1hmY)
-
-
+- 🕊️ [@0xAbbarhSF](https://twitter.com/0xAbbarhSF) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 
 ## 📒 Read Me 📒
